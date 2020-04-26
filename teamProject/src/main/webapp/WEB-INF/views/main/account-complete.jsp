@@ -45,6 +45,11 @@
 	font-size: 20;
 	color: #000;
 }
+
+.fa-fa-home {
+	font-size: 60px;
+	
+}
 </style>
 </head>
 <body>
@@ -69,6 +74,7 @@
 		<div class="container mt-2">
 			<div class="jumbotron mt-3"
 				style="background-color: #f2ffe6; width: 500px;">
+				<h1 class="fa-fa-home"><i class="fa fa-home"></i></h1>
 				<div class="row">
 					<div class="col first-name">예금주</div>
 					<div class="col second-name">이재천</div>
